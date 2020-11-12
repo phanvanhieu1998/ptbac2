@@ -70,6 +70,8 @@ export default {
         x2 = (-this.b + Math.sqrt(delta)) / (2 * this.a);
         this.double = "x2 la:" + x2;
       }
+      console.log(1)
+
     },
   },
 };

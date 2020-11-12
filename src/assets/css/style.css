@@ -1,0 +1,50 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+    }
+    .container{
+    width: 250px;
+    height: 400px;
+    background-color:#E6E6FA;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 60px;
+    }
+    h3{
+    text-align: center;
+    margin: 0;
+    }
+    p{
+    text-align: center;
+    }
+    input {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    }
+    .form-label{
+    padding-bottom: 6px;
+    }
+    .form-group{
+    padding-top: 15px;
+    }
+    .button{
+    text-align: center;
+    }
+    .form-submit{
+    background-color: blue;
+    margin-top: 12px;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    width: 40%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    }
